@@ -1,0 +1,60 @@
+body {
+  background: linear-gradient(to right, rgb(97, 32, 9), rgb(17, 8, 79));
+  height: auto;
+  width: 100vw;
+  padding-top: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.homepage-button {
+  margin-bottom: 20px;
+  width: 400px;
+}
+
+#card {
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 15px;
+  width: 400px;
+}
+
+.modal-content {
+  margin-bottom: 10px;
+}
+form {
+  text-align: center;
+  font-weight: bold;
+}
+
+#title {
+  text-align: center;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control {
+  width: 50px;
+}
+
+.error {
+  color: red;
+}
+
+
+
+
+
